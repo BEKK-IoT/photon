@@ -1,0 +1,26 @@
+{
+  "name": "photon",
+  "version": "0.0.1",
+  "description": "Example project for photon",
+  "main": "app.js",
+  "scripts": {
+    "app": "babel-node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BEKK-IoT/photon.git"
+  },
+  "devDependencies": {
+    "babel": "^5.8.21"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BEKK-IoT/photon/issues"
+  },
+  "homepage": "https://github.com/BEKK-IoT/photon#readme",
+  "dependencies": {
+    "devices-core": "bekk-iot/devices-core",
+    "johnny-five": "^0.8.88",
+    "particle-io": "^0.8.1"
+  }
+}
