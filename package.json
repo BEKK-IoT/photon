@@ -20,7 +20,6 @@
   "homepage": "https://github.com/BEKK-IoT/photon#readme",
   "dependencies": {
     "devices-core": "bekk-iot/devices-core",
-    "johnny-five": "^0.8.88",
     "particle-io": "^0.8.1"
   }
 }
