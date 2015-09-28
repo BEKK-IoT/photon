@@ -48,6 +48,6 @@ board.on("ready", function() {
 ```
 
 ## References
-- [Particle-io library][https://github.com/rwaldron/particle-io]
-- [Voodoospark][https://github.com/voodootikigod/voodoospark]
+- [Particle-io library](https://github.com/rwaldron/particle-io)
+- [Voodoospark](https://github.com/voodootikigod/voodoospark)
 - [Jhonny-five API](http://johnny-five.io/api/)
